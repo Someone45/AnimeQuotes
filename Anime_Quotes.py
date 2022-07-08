@@ -28,9 +28,3 @@ quote1()
 ui.button.clicked.connect(quote1)
 MainWindow.show()
 sys.exit(app.exec_())
-
-
-# anime = "One Piece Piece Piece Piece"
-# character = "Don Quixote Doflamingo"
-# quote = "Those who stand at the top determine what’s wrong and what’s right! This very place is neutral ground! Justice will prevail, you say? But, of course, it will! Whoever wins this war becomes justice! Those who stand at the top determine what’s wrong and what’s right! This very place is neutral ground! Justice will prevail, you say? But, of course, it will! Whoever wins this war becomes justice! Those who stand at the top determine what’s wrong and what’s right! This very place is neutral ground! Justice will prevail, you say? But, of course, it will! Whoever wins this war becomes justice!"
-
